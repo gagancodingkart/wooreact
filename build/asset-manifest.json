@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gagancodingkart/wooreact/static/css/main.7a2cb26a.chunk.css",
+    "main.js": "/gagancodingkart/wooreact/static/js/main.9d2758b5.chunk.js",
+    "main.js.map": "/gagancodingkart/wooreact/static/js/main.9d2758b5.chunk.js.map",
+    "runtime-main.js": "/gagancodingkart/wooreact/static/js/runtime-main.e51be4fb.js",
+    "runtime-main.js.map": "/gagancodingkart/wooreact/static/js/runtime-main.e51be4fb.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/gagancodingkart/wooreact/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b23bbe30.chunk.js": "/gagancodingkart/wooreact/static/js/2.b23bbe30.chunk.js",
+    "static/js/2.b23bbe30.chunk.js.map": "/gagancodingkart/wooreact/static/js/2.b23bbe30.chunk.js.map",
+    "index.html": "/gagancodingkart/wooreact/index.html",
+    "precache-manifest.7db2306328077f929af0f1c867f1cb68.js": "/gagancodingkart/wooreact/precache-manifest.7db2306328077f929af0f1c867f1cb68.js",
+    "service-worker.js": "/gagancodingkart/wooreact/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/gagancodingkart/wooreact/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.7a2cb26a.chunk.css.map": "/gagancodingkart/wooreact/static/css/main.7a2cb26a.chunk.css.map",
+    "static/js/2.b23bbe30.chunk.js.LICENSE": "/gagancodingkart/wooreact/static/js/2.b23bbe30.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e51be4fb.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b23bbe30.chunk.js",
+    "static/css/main.7a2cb26a.chunk.css",
+    "static/js/main.9d2758b5.chunk.js"
+  ]
+}
